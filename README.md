@@ -1,5 +1,5 @@
 # My_space_game
-in this reposistory, I made a space game.
+in this repository, I made a space game.
 ## Description
 - This space game has two kind of enemies, the shooter enemy and the normal enemy.
 - Shooter enemies shoot bullets and the normal ones don't have any bullet
